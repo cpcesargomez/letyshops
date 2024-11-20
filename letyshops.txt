@@ -1,3 +1,10 @@
+[Adblock Plus]
+! Title: letyshops.com - Cashback service LetyShops espejo Adblock Plus
+! Description: This list unblocks url Cashback service LetyShops.
+! Homepage: https://letyshops.com/
+! Expires: 1 days
+! Syntax: AdBlock
+!
 @@||letyshops.com^
 @@||letyshops.ru^
 @@||letyshops.solution.weborama.fr^
