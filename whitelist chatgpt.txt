@@ -11,10 +11,15 @@
 @@||alexa.amazon.com^
 @@||alexa-apis.amazon.com^
 
-# Spotify
-@@||spotify.com^
-@@||spclient.wg.spotify.com^
-@@||apresolve.spotify.com^
+# Asus
+@@||rgom10-asus-en.url.trendmicro.com^
+
+# Email
+@@||mail.useinsider.com^
+@@||url5237.mailix.mx^
+
+# Infonavit
+@@||url8836.infonavit.org.mx^
 
 # NSPanel / Ewelink / Sonoff
 @@||coolkit.cc^
@@ -22,3 +27,20 @@
 @@||ewecloud.com^
 @@||us-dispd-*.coolkit.cc^
 
+# SourceForge
+@@||html-load.com^
+
+# Spotify
+@@||spotify.com^
+@@||spclient.wg.spotify.com^
+@@||apresolve.spotify.com^
+
+# Vix Premium
+@@||pubads.g.doubleclick.net^
+@@||userlocation.googleapis.com^
+
+# yt-neuter 
+@@||neuter.mchang.xyz^
+
+# Descargar windows pagina oficial
+@@||vlscppe.microsoft.com^
