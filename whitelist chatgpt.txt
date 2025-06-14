@@ -1,0 +1,24 @@
+[Adblock Plus]
+! Title: whitelist - Mi lista
+! Description: This list unblocks urls.
+! Homepage: cpcesargomez
+! Expires: Updated regularly
+! Syntax: AdBlock
+!
+# Alexa
+@@||amazon.com^
+@@||device-metrics-us.amazon.com^
+@@||alexa.amazon.com^
+@@||alexa-apis.amazon.com^
+
+# Spotify
+@@||spotify.com^
+@@||spclient.wg.spotify.com^
+@@||apresolve.spotify.com^
+
+# NSPanel / Ewelink / Sonoff
+@@||coolkit.cc^
+@@||api.coolkit.cc^
+@@||ewecloud.com^
+@@||us-dispd-*.coolkit.cc^
+
