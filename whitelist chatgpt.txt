@@ -35,10 +35,6 @@
 @@||spclient.wg.spotify.com^
 @@||apresolve.spotify.com^
 
-# Vix Premium
-@@||pubads.g.doubleclick.net^
-@@||userlocation.googleapis.com^
-
 # yt-neuter 
 @@||neuter.mchang.xyz^
 
