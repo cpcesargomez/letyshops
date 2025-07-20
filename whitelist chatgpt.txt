@@ -5,12 +5,6 @@
 ! Expires: Updated regularly
 ! Syntax: AdBlock
 !
-# Alexa
-@@||amazon.com^
-@@||device-metrics-us.amazon.com^
-@@||alexa.amazon.com^
-@@||alexa-apis.amazon.com^
-
 # Asus
 @@||rgom10-asus-en.url.trendmicro.com^
 
@@ -21,19 +15,8 @@
 # Infonavit
 @@||url8836.infonavit.org.mx^
 
-# NSPanel / Ewelink / Sonoff
-@@||coolkit.cc^
-@@||api.coolkit.cc^
-@@||ewecloud.com^
-@@||us-dispd-*.coolkit.cc^
-
 # SourceForge
 @@||html-load.com^
-
-# Spotify
-@@||spotify.com^
-@@||spclient.wg.spotify.com^
-@@||apresolve.spotify.com^
 
 # yt-neuter 
 @@||neuter.mchang.xyz^
